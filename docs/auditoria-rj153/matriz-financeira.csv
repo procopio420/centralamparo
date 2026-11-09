@@ -1,0 +1,8 @@
+"evento","data","contrato","processo","localizacao","valor_brl","tipo","pagamento_comprovado","pode_somar_a_outros","fonte_id","observacao"
+"adjudicacao_2009","2009-04-15","","","RJ153 km31/35","2184000.00","adjudicado","nao","nao","E01","nao inferir execucao"
+"original_035_2023","2023-05-16","035/2023","SEI-460003/001002/2023","RJ153 km23.6/29","53772781.43","contratado","nao","nao","E10","valor do contrato original"
+"supressao_035_2023","2023-11-13","035/2023","SEI-330032/009366/2023","RJ153 km23.6/29","-1928.75","aditivo_supressao","nao","somente-para-saldo-contratual","E13","supressao original"
+"saldo_ajustado_035_2023","2023-11-13","035/2023","","RJ153 km23.6/29","53770852.68","saldo_contratual_calculado","nao","nao","E10+E13","calculado = original menos supressao"
+"investimento_portal_2024","2024-03-14","035/2023","460003/001002/2023","RJ153 km23.6/29","53770852.68","valor_projeto_100_porcento_liquidado_portal","nao_comprovado_por_OB","nao","E14","nao somar a contrato"
+"reconhecimento_7a_medicao","2024-12-20","035/2023","SEI-330002/031573/2024","RJ153 km23.6/29","2415516.42","reconhecimento_divida_medicao","nao","nao","E15","servicos executados 09 a 12/11/2023; pagamento nao localizado"
+"aviso_emergencial_2026","2026-03-26","","SEI-330002/005087/2026","RJ153 km27/29A/29B/30","","aviso","nao","nao","E17","sem vencedor valor ou contrato comprovado"
