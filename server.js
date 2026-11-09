@@ -36,7 +36,7 @@ db.prepare('INSERT OR IGNORE INTO commitments(id,record,updated) VALUES (?,?,?)'
   .run('pauta-central-amparo',JSON.stringify(seed.request),'2026-11-09');
 const segments = ['Quatis → Nossa Senhora do Amparo', 'Nossa Senhora do Amparo → São José do Turvo'];
 const categories = ['Buraco','Lama / atoleiro','Erosão','Drenagem ruim','Falta de material','Desnível perigoso','Ponto crítico após chuva','Ponte / bueiro / manilha','Outro'];
-const severities = ['Baixa','Moderada','Alta','Crítica'];
+const severities = ['Baixa','Moderada','Alta','Crítica','Não informada'];
 const commitmentStates = ['Reivindicação registrada','Aguardando retorno','Compromisso assumido','Em andamento','Prazo vencido','Respondido','Concluído','Não cumprido'];
 const reportStates = ['Em revisão','Revisado','Encaminhado','Arquivado'];
 const files = new Map([

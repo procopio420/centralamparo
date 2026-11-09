@@ -54,7 +54,7 @@ async function portal() {
   const severities = select('#map-severity');
   for (const [filter,key,items] of [[segments,'segment',data.segments],[categories,'category',data.categories],[severities,'severity',data.severities]]) {
     options(filter,items,'Todos');
-    options(form.elements[key],items,'Selecione');
+    options(form.elements[key],items,key === 'segment' ? 'Selecione' : 'Não informado');
     filter.addEventListener('change',renderMap);
   }
   function renderMap() {
@@ -106,18 +106,22 @@ async function portal() {
   if (data.contact) select('#privacy-contact').textContent = 'Para correção ou remoção, envie seu protocolo para '+data.contact+'.';
   form.querySelector('button').disabled = false;
   wire(form,async payload => {
-    const result = await api('report',payload);
+    const result = await api('report',{...payload,category:payload.category || 'Outro',severity:payload.severity || 'Não informada'});
     form.reset();
     return 'Protocolo '+result.protocol+' · '+result.status+'. Guarde este código. A equipe revisará o relato antes de qualquer encaminhamento.';
   });
 }
 if (select('#report')) {
-  wire(select('#lookup'),async (payload,button) => {
+  const lookup = select('#lookup');
+  const removeButton = lookup.querySelector('[value=remove]');
+  lookup.elements.protocol.addEventListener('input',() => { removeButton.hidden = true; });
+  wire(lookup,async (payload,button) => {
     if (button.value === 'remove') {
       if (!confirm('Solicitar à moderação a remoção deste relato?')) return '';
       return (await api('lookup',{...payload,action:'remove'})).status+'.';
     }
     const result = await api('lookup',payload);
+    removeButton.hidden = lookup.elements.protocol.value.trim() !== payload.protocol.trim();
     return result.status+' · Recebido em '+displayDate(result.created)+(result.published?' · Ponto publicado.':'.');
   });
   portal().catch(() => {
