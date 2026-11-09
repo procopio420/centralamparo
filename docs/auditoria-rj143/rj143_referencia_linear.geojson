@@ -1,0 +1,1509 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "km_inicial": 0,
+        "km_final": 1,
+        "municipio": "Valença",
+        "roc": "12",
+        "trecho": "Controle em Valença",
+        "superficie": null,
+        "valor_pago": null,
+        "fonte_url": "https://dadosabertos.rj.gov.br/dataset/bbf2c4f7-4432-4c54-8806-e3bce30d014a/resource/1a46ae61-6740-4d36-aba0-e41c5826de1c/download/condicoes_das_rodovias-doc_iii.pdf",
+        "pagina": 2,
+        "geometria": "Não validada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "km_inicial": 1,
+        "km_final": 2,
+        "municipio": "Valença",
+        "roc": "12",
+        "trecho": "Controle em Valença",
+        "superficie": null,
+        "valor_pago": null,
+        "fonte_url": "https://dadosabertos.rj.gov.br/dataset/bbf2c4f7-4432-4c54-8806-e3bce30d014a/resource/1a46ae61-6740-4d36-aba0-e41c5826de1c/download/condicoes_das_rodovias-doc_iii.pdf",
+        "pagina": 2,
+        "geometria": "Não validada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "km_inicial": 2,
+        "km_final": 3,
+        "municipio": "Valença",
+        "roc": "12",
+        "trecho": "Controle em Valença",
+        "superficie": null,
+        "valor_pago": null,
+        "fonte_url": "https://dadosabertos.rj.gov.br/dataset/bbf2c4f7-4432-4c54-8806-e3bce30d014a/resource/1a46ae61-6740-4d36-aba0-e41c5826de1c/download/condicoes_das_rodovias-doc_iii.pdf",
+        "pagina": 2,
+        "geometria": "Não validada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "km_inicial": 3,
+        "km_final": 4,
+        "municipio": "Valença",
+        "roc": "12",
+        "trecho": "Controle em Valença",
+        "superficie": null,
+        "valor_pago": null,
+        "fonte_url": "https://dadosabertos.rj.gov.br/dataset/bbf2c4f7-4432-4c54-8806-e3bce30d014a/resource/1a46ae61-6740-4d36-aba0-e41c5826de1c/download/condicoes_das_rodovias-doc_iii.pdf",
+        "pagina": 2,
+        "geometria": "Não validada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "km_inicial": 4,
+        "km_final": 5,
+        "municipio": "Valença",
+        "roc": "12",
+        "trecho": "Controle em Valença",
+        "superficie": null,
+        "valor_pago": null,
+        "fonte_url": "https://dadosabertos.rj.gov.br/dataset/bbf2c4f7-4432-4c54-8806-e3bce30d014a/resource/1a46ae61-6740-4d36-aba0-e41c5826de1c/download/condicoes_das_rodovias-doc_iii.pdf",
+        "pagina": 2,
+        "geometria": "Não validada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "km_inicial": 5,
+        "km_final": 6,
+        "municipio": "Valença",
+        "roc": "12",
+        "trecho": "Controle em Valença",
+        "superficie": null,
+        "valor_pago": null,
+        "fonte_url": "https://dadosabertos.rj.gov.br/dataset/bbf2c4f7-4432-4c54-8806-e3bce30d014a/resource/1a46ae61-6740-4d36-aba0-e41c5826de1c/download/condicoes_das_rodovias-doc_iii.pdf",
+        "pagina": 2,
+        "geometria": "Não validada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "km_inicial": 6,
+        "km_final": 7,
+        "municipio": "Valença",
+        "roc": "12",
+        "trecho": "Controle em Valença",
+        "superficie": null,
+        "valor_pago": null,
+        "fonte_url": "https://dadosabertos.rj.gov.br/dataset/bbf2c4f7-4432-4c54-8806-e3bce30d014a/resource/1a46ae61-6740-4d36-aba0-e41c5826de1c/download/condicoes_das_rodovias-doc_iii.pdf",
+        "pagina": 2,
+        "geometria": "Não validada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "km_inicial": 7,
+        "km_final": 8,
+        "municipio": "Valença",
+        "roc": "12",
+        "trecho": "Controle em Valença",
+        "superficie": null,
+        "valor_pago": null,
+        "fonte_url": "https://dadosabertos.rj.gov.br/dataset/bbf2c4f7-4432-4c54-8806-e3bce30d014a/resource/1a46ae61-6740-4d36-aba0-e41c5826de1c/download/condicoes_das_rodovias-doc_iii.pdf",
+        "pagina": 2,
+        "geometria": "Não validada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "km_inicial": 8,
+        "km_final": 9,
+        "municipio": "Valença",
+        "roc": "12",
+        "trecho": "Controle em Valença",
+        "superficie": null,
+        "valor_pago": null,
+        "fonte_url": "https://dadosabertos.rj.gov.br/dataset/bbf2c4f7-4432-4c54-8806-e3bce30d014a/resource/1a46ae61-6740-4d36-aba0-e41c5826de1c/download/condicoes_das_rodovias-doc_iii.pdf",
+        "pagina": 2,
+        "geometria": "Não validada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "km_inicial": 9,
+        "km_final": 10,
+        "municipio": "Valença",
+        "roc": "12",
+        "trecho": "Controle em Valença",
+        "superficie": null,
+        "valor_pago": null,
+        "fonte_url": "https://dadosabertos.rj.gov.br/dataset/bbf2c4f7-4432-4c54-8806-e3bce30d014a/resource/1a46ae61-6740-4d36-aba0-e41c5826de1c/download/condicoes_das_rodovias-doc_iii.pdf",
+        "pagina": 2,
+        "geometria": "Não validada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "km_inicial": 10,
+        "km_final": 11,
+        "municipio": "Valença",
+        "roc": "12",
+        "trecho": "Controle em Valença",
+        "superficie": null,
+        "valor_pago": null,
+        "fonte_url": "https://dadosabertos.rj.gov.br/dataset/bbf2c4f7-4432-4c54-8806-e3bce30d014a/resource/1a46ae61-6740-4d36-aba0-e41c5826de1c/download/condicoes_das_rodovias-doc_iii.pdf",
+        "pagina": 2,
+        "geometria": "Não validada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "km_inicial": 11,
+        "km_final": 12,
+        "municipio": "Valença",
+        "roc": "12",
+        "trecho": "Controle em Valença",
+        "superficie": null,
+        "valor_pago": null,
+        "fonte_url": "https://dadosabertos.rj.gov.br/dataset/bbf2c4f7-4432-4c54-8806-e3bce30d014a/resource/1a46ae61-6740-4d36-aba0-e41c5826de1c/download/condicoes_das_rodovias-doc_iii.pdf",
+        "pagina": 2,
+        "geometria": "Não validada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "km_inicial": 12,
+        "km_final": 13,
+        "municipio": "Valença",
+        "roc": "12",
+        "trecho": "Controle em Valença",
+        "superficie": null,
+        "valor_pago": null,
+        "fonte_url": "https://dadosabertos.rj.gov.br/dataset/bbf2c4f7-4432-4c54-8806-e3bce30d014a/resource/1a46ae61-6740-4d36-aba0-e41c5826de1c/download/condicoes_das_rodovias-doc_iii.pdf",
+        "pagina": 2,
+        "geometria": "Não validada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "km_inicial": 13,
+        "km_final": 14,
+        "municipio": "Valença",
+        "roc": "12",
+        "trecho": "Controle em Valença",
+        "superficie": null,
+        "valor_pago": null,
+        "fonte_url": "https://dadosabertos.rj.gov.br/dataset/bbf2c4f7-4432-4c54-8806-e3bce30d014a/resource/1a46ae61-6740-4d36-aba0-e41c5826de1c/download/condicoes_das_rodovias-doc_iii.pdf",
+        "pagina": 2,
+        "geometria": "Não validada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "km_inicial": 14,
+        "km_final": 15,
+        "municipio": "Valença",
+        "roc": "12",
+        "trecho": "Controle em Valença",
+        "superficie": null,
+        "valor_pago": null,
+        "fonte_url": "https://dadosabertos.rj.gov.br/dataset/bbf2c4f7-4432-4c54-8806-e3bce30d014a/resource/1a46ae61-6740-4d36-aba0-e41c5826de1c/download/condicoes_das_rodovias-doc_iii.pdf",
+        "pagina": 2,
+        "geometria": "Não validada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "km_inicial": 15,
+        "km_final": 16,
+        "municipio": "Valença",
+        "roc": "12",
+        "trecho": "Controle em Valença",
+        "superficie": null,
+        "valor_pago": null,
+        "fonte_url": "https://dadosabertos.rj.gov.br/dataset/bbf2c4f7-4432-4c54-8806-e3bce30d014a/resource/1a46ae61-6740-4d36-aba0-e41c5826de1c/download/condicoes_das_rodovias-doc_iii.pdf",
+        "pagina": 2,
+        "geometria": "Não validada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "km_inicial": 16,
+        "km_final": 17,
+        "municipio": "Valença",
+        "roc": "12",
+        "trecho": "Controle em Valença",
+        "superficie": null,
+        "valor_pago": null,
+        "fonte_url": "https://dadosabertos.rj.gov.br/dataset/bbf2c4f7-4432-4c54-8806-e3bce30d014a/resource/1a46ae61-6740-4d36-aba0-e41c5826de1c/download/condicoes_das_rodovias-doc_iii.pdf",
+        "pagina": 2,
+        "geometria": "Não validada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "km_inicial": 17,
+        "km_final": 18,
+        "municipio": "Valença",
+        "roc": "12",
+        "trecho": "Controle em Valença",
+        "superficie": null,
+        "valor_pago": null,
+        "fonte_url": "https://dadosabertos.rj.gov.br/dataset/bbf2c4f7-4432-4c54-8806-e3bce30d014a/resource/1a46ae61-6740-4d36-aba0-e41c5826de1c/download/condicoes_das_rodovias-doc_iii.pdf",
+        "pagina": 2,
+        "geometria": "Não validada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "km_inicial": 18,
+        "km_final": 19,
+        "municipio": "Valença",
+        "roc": "12",
+        "trecho": "Controle em Valença",
+        "superficie": null,
+        "valor_pago": null,
+        "fonte_url": "https://dadosabertos.rj.gov.br/dataset/bbf2c4f7-4432-4c54-8806-e3bce30d014a/resource/1a46ae61-6740-4d36-aba0-e41c5826de1c/download/condicoes_das_rodovias-doc_iii.pdf",
+        "pagina": 2,
+        "geometria": "Não validada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "km_inicial": 19,
+        "km_final": 20,
+        "municipio": "Valença",
+        "roc": "12",
+        "trecho": "Controle em Valença",
+        "superficie": null,
+        "valor_pago": null,
+        "fonte_url": "https://dadosabertos.rj.gov.br/dataset/bbf2c4f7-4432-4c54-8806-e3bce30d014a/resource/1a46ae61-6740-4d36-aba0-e41c5826de1c/download/condicoes_das_rodovias-doc_iii.pdf",
+        "pagina": 2,
+        "geometria": "Não validada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "km_inicial": 20,
+        "km_final": 21,
+        "municipio": "Valença",
+        "roc": "12",
+        "trecho": "Controle em Valença",
+        "superficie": null,
+        "valor_pago": null,
+        "fonte_url": "https://dadosabertos.rj.gov.br/dataset/bbf2c4f7-4432-4c54-8806-e3bce30d014a/resource/1a46ae61-6740-4d36-aba0-e41c5826de1c/download/condicoes_das_rodovias-doc_iii.pdf",
+        "pagina": 2,
+        "geometria": "Não validada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "km_inicial": 21,
+        "km_final": 22,
+        "municipio": "Valença",
+        "roc": "12",
+        "trecho": "Controle em Valença",
+        "superficie": null,
+        "valor_pago": null,
+        "fonte_url": "https://dadosabertos.rj.gov.br/dataset/bbf2c4f7-4432-4c54-8806-e3bce30d014a/resource/1a46ae61-6740-4d36-aba0-e41c5826de1c/download/condicoes_das_rodovias-doc_iii.pdf",
+        "pagina": 2,
+        "geometria": "Não validada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "km_inicial": 22,
+        "km_final": 23,
+        "municipio": "Valença",
+        "roc": "12",
+        "trecho": "Controle em Valença",
+        "superficie": null,
+        "valor_pago": null,
+        "fonte_url": "https://dadosabertos.rj.gov.br/dataset/bbf2c4f7-4432-4c54-8806-e3bce30d014a/resource/1a46ae61-6740-4d36-aba0-e41c5826de1c/download/condicoes_das_rodovias-doc_iii.pdf",
+        "pagina": 2,
+        "geometria": "Não validada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "km_inicial": 23,
+        "km_final": 24,
+        "municipio": "Valença",
+        "roc": "12",
+        "trecho": "Controle em Valença",
+        "superficie": null,
+        "valor_pago": null,
+        "fonte_url": "https://dadosabertos.rj.gov.br/dataset/bbf2c4f7-4432-4c54-8806-e3bce30d014a/resource/1a46ae61-6740-4d36-aba0-e41c5826de1c/download/condicoes_das_rodovias-doc_iii.pdf",
+        "pagina": 2,
+        "geometria": "Não validada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "km_inicial": 24,
+        "km_final": 25,
+        "municipio": "Valença",
+        "roc": "12",
+        "trecho": "Controle em Valença",
+        "superficie": null,
+        "valor_pago": null,
+        "fonte_url": "https://dadosabertos.rj.gov.br/dataset/bbf2c4f7-4432-4c54-8806-e3bce30d014a/resource/1a46ae61-6740-4d36-aba0-e41c5826de1c/download/condicoes_das_rodovias-doc_iii.pdf",
+        "pagina": 2,
+        "geometria": "Não validada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "km_inicial": 25,
+        "km_final": 26,
+        "municipio": "Valença",
+        "roc": "12",
+        "trecho": "Controle em Valença",
+        "superficie": null,
+        "valor_pago": null,
+        "fonte_url": "https://dadosabertos.rj.gov.br/dataset/bbf2c4f7-4432-4c54-8806-e3bce30d014a/resource/1a46ae61-6740-4d36-aba0-e41c5826de1c/download/condicoes_das_rodovias-doc_iii.pdf",
+        "pagina": 2,
+        "geometria": "Não validada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "km_inicial": 26,
+        "km_final": 27,
+        "municipio": "Valença",
+        "roc": "12",
+        "trecho": "Controle em Valença",
+        "superficie": null,
+        "valor_pago": null,
+        "fonte_url": "https://dadosabertos.rj.gov.br/dataset/bbf2c4f7-4432-4c54-8806-e3bce30d014a/resource/1a46ae61-6740-4d36-aba0-e41c5826de1c/download/condicoes_das_rodovias-doc_iii.pdf",
+        "pagina": 2,
+        "geometria": "Não validada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "km_inicial": 27,
+        "km_final": 28,
+        "municipio": "Valença",
+        "roc": "12",
+        "trecho": "Controle em Valença",
+        "superficie": null,
+        "valor_pago": null,
+        "fonte_url": "https://dadosabertos.rj.gov.br/dataset/bbf2c4f7-4432-4c54-8806-e3bce30d014a/resource/1a46ae61-6740-4d36-aba0-e41c5826de1c/download/condicoes_das_rodovias-doc_iii.pdf",
+        "pagina": 2,
+        "geometria": "Não validada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "km_inicial": 28,
+        "km_final": 29,
+        "municipio": "Valença",
+        "roc": "12",
+        "trecho": "Controle em Valença",
+        "superficie": null,
+        "valor_pago": null,
+        "fonte_url": "https://dadosabertos.rj.gov.br/dataset/bbf2c4f7-4432-4c54-8806-e3bce30d014a/resource/1a46ae61-6740-4d36-aba0-e41c5826de1c/download/condicoes_das_rodovias-doc_iii.pdf",
+        "pagina": 2,
+        "geometria": "Não validada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "km_inicial": 29,
+        "km_final": 30,
+        "municipio": "Valença",
+        "roc": "12",
+        "trecho": "Controle em Valença",
+        "superficie": null,
+        "valor_pago": null,
+        "fonte_url": "https://dadosabertos.rj.gov.br/dataset/bbf2c4f7-4432-4c54-8806-e3bce30d014a/resource/1a46ae61-6740-4d36-aba0-e41c5826de1c/download/condicoes_das_rodovias-doc_iii.pdf",
+        "pagina": 2,
+        "geometria": "Não validada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "km_inicial": 30,
+        "km_final": 31,
+        "municipio": "Valença",
+        "roc": "12",
+        "trecho": "Controle em Valença",
+        "superficie": null,
+        "valor_pago": null,
+        "fonte_url": "https://dadosabertos.rj.gov.br/dataset/bbf2c4f7-4432-4c54-8806-e3bce30d014a/resource/1a46ae61-6740-4d36-aba0-e41c5826de1c/download/condicoes_das_rodovias-doc_iii.pdf",
+        "pagina": 2,
+        "geometria": "Não validada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "km_inicial": 31,
+        "km_final": 32,
+        "municipio": "Valença",
+        "roc": "12",
+        "trecho": "Controle em Valença",
+        "superficie": null,
+        "valor_pago": null,
+        "fonte_url": "https://dadosabertos.rj.gov.br/dataset/bbf2c4f7-4432-4c54-8806-e3bce30d014a/resource/1a46ae61-6740-4d36-aba0-e41c5826de1c/download/condicoes_das_rodovias-doc_iii.pdf",
+        "pagina": 2,
+        "geometria": "Não validada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "km_inicial": 32,
+        "km_final": 33,
+        "municipio": "Valença",
+        "roc": "12",
+        "trecho": "Controle em Valença",
+        "superficie": null,
+        "valor_pago": null,
+        "fonte_url": "https://dadosabertos.rj.gov.br/dataset/bbf2c4f7-4432-4c54-8806-e3bce30d014a/resource/1a46ae61-6740-4d36-aba0-e41c5826de1c/download/condicoes_das_rodovias-doc_iii.pdf",
+        "pagina": 2,
+        "geometria": "Não validada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "km_inicial": 33,
+        "km_final": 34,
+        "municipio": "Valença",
+        "roc": "12",
+        "trecho": "Controle em Valença",
+        "superficie": null,
+        "valor_pago": null,
+        "fonte_url": "https://dadosabertos.rj.gov.br/dataset/bbf2c4f7-4432-4c54-8806-e3bce30d014a/resource/1a46ae61-6740-4d36-aba0-e41c5826de1c/download/condicoes_das_rodovias-doc_iii.pdf",
+        "pagina": 2,
+        "geometria": "Não validada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "km_inicial": 34,
+        "km_final": 35,
+        "municipio": "Valença",
+        "roc": "12",
+        "trecho": "Controle em Valença",
+        "superficie": null,
+        "valor_pago": null,
+        "fonte_url": "https://dadosabertos.rj.gov.br/dataset/bbf2c4f7-4432-4c54-8806-e3bce30d014a/resource/1a46ae61-6740-4d36-aba0-e41c5826de1c/download/condicoes_das_rodovias-doc_iii.pdf",
+        "pagina": 2,
+        "geometria": "Não validada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "km_inicial": 35,
+        "km_final": 36,
+        "municipio": "Valença",
+        "roc": "12",
+        "trecho": "Controle em Valença",
+        "superficie": null,
+        "valor_pago": null,
+        "fonte_url": "https://dadosabertos.rj.gov.br/dataset/bbf2c4f7-4432-4c54-8806-e3bce30d014a/resource/1a46ae61-6740-4d36-aba0-e41c5826de1c/download/condicoes_das_rodovias-doc_iii.pdf",
+        "pagina": 2,
+        "geometria": "Não validada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "km_inicial": 36,
+        "km_final": 37,
+        "municipio": "Valença",
+        "roc": "12",
+        "trecho": "Controle em Valença",
+        "superficie": null,
+        "valor_pago": null,
+        "fonte_url": "https://dadosabertos.rj.gov.br/dataset/bbf2c4f7-4432-4c54-8806-e3bce30d014a/resource/1a46ae61-6740-4d36-aba0-e41c5826de1c/download/condicoes_das_rodovias-doc_iii.pdf",
+        "pagina": 2,
+        "geometria": "Não validada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "km_inicial": 37,
+        "km_final": 38,
+        "municipio": "Valença",
+        "roc": "12",
+        "trecho": "Controle em Valença",
+        "superficie": null,
+        "valor_pago": null,
+        "fonte_url": "https://dadosabertos.rj.gov.br/dataset/bbf2c4f7-4432-4c54-8806-e3bce30d014a/resource/1a46ae61-6740-4d36-aba0-e41c5826de1c/download/condicoes_das_rodovias-doc_iii.pdf",
+        "pagina": 2,
+        "geometria": "Não validada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "km_inicial": 38,
+        "km_final": 39,
+        "municipio": "Valença",
+        "roc": "12",
+        "trecho": "Controle em Valença",
+        "superficie": null,
+        "valor_pago": null,
+        "fonte_url": "https://dadosabertos.rj.gov.br/dataset/bbf2c4f7-4432-4c54-8806-e3bce30d014a/resource/1a46ae61-6740-4d36-aba0-e41c5826de1c/download/condicoes_das_rodovias-doc_iii.pdf",
+        "pagina": 2,
+        "geometria": "Não validada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "km_inicial": 39,
+        "km_final": 40,
+        "municipio": "Valença",
+        "roc": "12",
+        "trecho": "Controle em Valença",
+        "superficie": null,
+        "valor_pago": null,
+        "fonte_url": "https://dadosabertos.rj.gov.br/dataset/bbf2c4f7-4432-4c54-8806-e3bce30d014a/resource/1a46ae61-6740-4d36-aba0-e41c5826de1c/download/condicoes_das_rodovias-doc_iii.pdf",
+        "pagina": 2,
+        "geometria": "Não validada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "km_inicial": 40,
+        "km_final": 41,
+        "municipio": "Valença",
+        "roc": "12",
+        "trecho": "Controle em Valença",
+        "superficie": null,
+        "valor_pago": null,
+        "fonte_url": "https://dadosabertos.rj.gov.br/dataset/bbf2c4f7-4432-4c54-8806-e3bce30d014a/resource/1a46ae61-6740-4d36-aba0-e41c5826de1c/download/condicoes_das_rodovias-doc_iii.pdf",
+        "pagina": 2,
+        "geometria": "Não validada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "km_inicial": 41,
+        "km_final": 42,
+        "municipio": "Valença",
+        "roc": "12",
+        "trecho": "Controle em Valença",
+        "superficie": null,
+        "valor_pago": null,
+        "fonte_url": "https://dadosabertos.rj.gov.br/dataset/bbf2c4f7-4432-4c54-8806-e3bce30d014a/resource/1a46ae61-6740-4d36-aba0-e41c5826de1c/download/condicoes_das_rodovias-doc_iii.pdf",
+        "pagina": 2,
+        "geometria": "Não validada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "km_inicial": 42,
+        "km_final": 43,
+        "municipio": "Valença",
+        "roc": "12",
+        "trecho": "Controle em Valença",
+        "superficie": null,
+        "valor_pago": null,
+        "fonte_url": "https://dadosabertos.rj.gov.br/dataset/bbf2c4f7-4432-4c54-8806-e3bce30d014a/resource/1a46ae61-6740-4d36-aba0-e41c5826de1c/download/condicoes_das_rodovias-doc_iii.pdf",
+        "pagina": 2,
+        "geometria": "Não validada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "km_inicial": 43,
+        "km_final": 44,
+        "municipio": "Valença",
+        "roc": "12",
+        "trecho": "Controle em Valença",
+        "superficie": null,
+        "valor_pago": null,
+        "fonte_url": "https://dadosabertos.rj.gov.br/dataset/bbf2c4f7-4432-4c54-8806-e3bce30d014a/resource/1a46ae61-6740-4d36-aba0-e41c5826de1c/download/condicoes_das_rodovias-doc_iii.pdf",
+        "pagina": 2,
+        "geometria": "Não validada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "km_inicial": 44,
+        "km_final": 45,
+        "municipio": "Valença",
+        "roc": "12",
+        "trecho": "Controle em Valença",
+        "superficie": null,
+        "valor_pago": null,
+        "fonte_url": "https://dadosabertos.rj.gov.br/dataset/bbf2c4f7-4432-4c54-8806-e3bce30d014a/resource/1a46ae61-6740-4d36-aba0-e41c5826de1c/download/condicoes_das_rodovias-doc_iii.pdf",
+        "pagina": 2,
+        "geometria": "Não validada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "km_inicial": 45,
+        "km_final": 46,
+        "municipio": "Valença",
+        "roc": "12",
+        "trecho": "Controle em Valença",
+        "superficie": null,
+        "valor_pago": null,
+        "fonte_url": "https://dadosabertos.rj.gov.br/dataset/bbf2c4f7-4432-4c54-8806-e3bce30d014a/resource/1a46ae61-6740-4d36-aba0-e41c5826de1c/download/condicoes_das_rodovias-doc_iii.pdf",
+        "pagina": 2,
+        "geometria": "Não validada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "km_inicial": 46,
+        "km_final": 46.8,
+        "municipio": "Valença",
+        "roc": "12",
+        "trecho": "Controle em Valença",
+        "superficie": null,
+        "valor_pago": null,
+        "fonte_url": "https://dadosabertos.rj.gov.br/dataset/bbf2c4f7-4432-4c54-8806-e3bce30d014a/resource/1a46ae61-6740-4d36-aba0-e41c5826de1c/download/condicoes_das_rodovias-doc_iii.pdf",
+        "pagina": 2,
+        "geometria": "Não validada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "km_inicial": 46.8,
+        "km_final": 47,
+        "municipio": "Barra do Piraí",
+        "roc": "12",
+        "trecho": "Indeterminado",
+        "superficie": null,
+        "valor_pago": null,
+        "fonte_url": "https://dadosabertos.rj.gov.br/dataset/bbf2c4f7-4432-4c54-8806-e3bce30d014a/resource/1a46ae61-6740-4d36-aba0-e41c5826de1c/download/condicoes_das_rodovias-doc_iii.pdf",
+        "pagina": 2,
+        "geometria": "Não validada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "km_inicial": 47,
+        "km_final": 48,
+        "municipio": "Barra do Piraí",
+        "roc": "12",
+        "trecho": "Indeterminado",
+        "superficie": null,
+        "valor_pago": null,
+        "fonte_url": "https://dadosabertos.rj.gov.br/dataset/bbf2c4f7-4432-4c54-8806-e3bce30d014a/resource/1a46ae61-6740-4d36-aba0-e41c5826de1c/download/condicoes_das_rodovias-doc_iii.pdf",
+        "pagina": 2,
+        "geometria": "Não validada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "km_inicial": 48,
+        "km_final": 49,
+        "municipio": "Barra do Piraí",
+        "roc": "12",
+        "trecho": "Indeterminado",
+        "superficie": null,
+        "valor_pago": null,
+        "fonte_url": "https://dadosabertos.rj.gov.br/dataset/bbf2c4f7-4432-4c54-8806-e3bce30d014a/resource/1a46ae61-6740-4d36-aba0-e41c5826de1c/download/condicoes_das_rodovias-doc_iii.pdf",
+        "pagina": 2,
+        "geometria": "Não validada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "km_inicial": 49,
+        "km_final": 50,
+        "municipio": "Barra do Piraí",
+        "roc": "12",
+        "trecho": "Indeterminado",
+        "superficie": null,
+        "valor_pago": null,
+        "fonte_url": "https://dadosabertos.rj.gov.br/dataset/bbf2c4f7-4432-4c54-8806-e3bce30d014a/resource/1a46ae61-6740-4d36-aba0-e41c5826de1c/download/condicoes_das_rodovias-doc_iii.pdf",
+        "pagina": 2,
+        "geometria": "Não validada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "km_inicial": 50,
+        "km_final": 51,
+        "municipio": "Barra do Piraí",
+        "roc": "12",
+        "trecho": "Indeterminado",
+        "superficie": null,
+        "valor_pago": null,
+        "fonte_url": "https://dadosabertos.rj.gov.br/dataset/bbf2c4f7-4432-4c54-8806-e3bce30d014a/resource/1a46ae61-6740-4d36-aba0-e41c5826de1c/download/condicoes_das_rodovias-doc_iii.pdf",
+        "pagina": 2,
+        "geometria": "Não validada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "km_inicial": 51,
+        "km_final": 52,
+        "municipio": "Barra do Piraí",
+        "roc": "12",
+        "trecho": "Indeterminado",
+        "superficie": null,
+        "valor_pago": null,
+        "fonte_url": "https://dadosabertos.rj.gov.br/dataset/bbf2c4f7-4432-4c54-8806-e3bce30d014a/resource/1a46ae61-6740-4d36-aba0-e41c5826de1c/download/condicoes_das_rodovias-doc_iii.pdf",
+        "pagina": 2,
+        "geometria": "Não validada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "km_inicial": 52,
+        "km_final": 53,
+        "municipio": "Barra do Piraí",
+        "roc": "12",
+        "trecho": "Indeterminado",
+        "superficie": null,
+        "valor_pago": null,
+        "fonte_url": "https://dadosabertos.rj.gov.br/dataset/bbf2c4f7-4432-4c54-8806-e3bce30d014a/resource/1a46ae61-6740-4d36-aba0-e41c5826de1c/download/condicoes_das_rodovias-doc_iii.pdf",
+        "pagina": 2,
+        "geometria": "Não validada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "km_inicial": 53,
+        "km_final": 54,
+        "municipio": "Barra do Piraí",
+        "roc": "12",
+        "trecho": "Indeterminado",
+        "superficie": null,
+        "valor_pago": null,
+        "fonte_url": "https://dadosabertos.rj.gov.br/dataset/bbf2c4f7-4432-4c54-8806-e3bce30d014a/resource/1a46ae61-6740-4d36-aba0-e41c5826de1c/download/condicoes_das_rodovias-doc_iii.pdf",
+        "pagina": 2,
+        "geometria": "Não validada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "km_inicial": 54,
+        "km_final": 55,
+        "municipio": "Barra do Piraí",
+        "roc": "12",
+        "trecho": "Indeterminado",
+        "superficie": null,
+        "valor_pago": null,
+        "fonte_url": "https://dadosabertos.rj.gov.br/dataset/bbf2c4f7-4432-4c54-8806-e3bce30d014a/resource/1a46ae61-6740-4d36-aba0-e41c5826de1c/download/condicoes_das_rodovias-doc_iii.pdf",
+        "pagina": 2,
+        "geometria": "Não validada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "km_inicial": 55,
+        "km_final": 56,
+        "municipio": "Barra do Piraí",
+        "roc": "12",
+        "trecho": "Indeterminado",
+        "superficie": null,
+        "valor_pago": null,
+        "fonte_url": "https://dadosabertos.rj.gov.br/dataset/bbf2c4f7-4432-4c54-8806-e3bce30d014a/resource/1a46ae61-6740-4d36-aba0-e41c5826de1c/download/condicoes_das_rodovias-doc_iii.pdf",
+        "pagina": 2,
+        "geometria": "Não validada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "km_inicial": 56,
+        "km_final": 57,
+        "municipio": "Barra do Piraí",
+        "roc": "12",
+        "trecho": "Indeterminado",
+        "superficie": null,
+        "valor_pago": null,
+        "fonte_url": "https://dadosabertos.rj.gov.br/dataset/bbf2c4f7-4432-4c54-8806-e3bce30d014a/resource/1a46ae61-6740-4d36-aba0-e41c5826de1c/download/condicoes_das_rodovias-doc_iii.pdf",
+        "pagina": 2,
+        "geometria": "Não validada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "km_inicial": 57,
+        "km_final": 58,
+        "municipio": "Barra do Piraí",
+        "roc": "12",
+        "trecho": "Indeterminado",
+        "superficie": null,
+        "valor_pago": null,
+        "fonte_url": "https://dadosabertos.rj.gov.br/dataset/bbf2c4f7-4432-4c54-8806-e3bce30d014a/resource/1a46ae61-6740-4d36-aba0-e41c5826de1c/download/condicoes_das_rodovias-doc_iii.pdf",
+        "pagina": 2,
+        "geometria": "Não validada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "km_inicial": 58,
+        "km_final": 59,
+        "municipio": "Barra do Piraí",
+        "roc": "12",
+        "trecho": "Indeterminado",
+        "superficie": null,
+        "valor_pago": null,
+        "fonte_url": "https://dadosabertos.rj.gov.br/dataset/bbf2c4f7-4432-4c54-8806-e3bce30d014a/resource/1a46ae61-6740-4d36-aba0-e41c5826de1c/download/condicoes_das_rodovias-doc_iii.pdf",
+        "pagina": 2,
+        "geometria": "Não validada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "km_inicial": 59,
+        "km_final": 60,
+        "municipio": "Barra do Piraí",
+        "roc": "12",
+        "trecho": "Indeterminado",
+        "superficie": null,
+        "valor_pago": null,
+        "fonte_url": "https://dadosabertos.rj.gov.br/dataset/bbf2c4f7-4432-4c54-8806-e3bce30d014a/resource/1a46ae61-6740-4d36-aba0-e41c5826de1c/download/condicoes_das_rodovias-doc_iii.pdf",
+        "pagina": 2,
+        "geometria": "Não validada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "km_inicial": 60,
+        "km_final": 61,
+        "municipio": "Barra do Piraí",
+        "roc": "12",
+        "trecho": "Indeterminado",
+        "superficie": null,
+        "valor_pago": null,
+        "fonte_url": "https://dadosabertos.rj.gov.br/dataset/bbf2c4f7-4432-4c54-8806-e3bce30d014a/resource/1a46ae61-6740-4d36-aba0-e41c5826de1c/download/condicoes_das_rodovias-doc_iii.pdf",
+        "pagina": 2,
+        "geometria": "Não validada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "km_inicial": 61,
+        "km_final": 61.3,
+        "municipio": "Barra do Piraí",
+        "roc": "12",
+        "trecho": "Indeterminado",
+        "superficie": null,
+        "valor_pago": null,
+        "fonte_url": "https://dadosabertos.rj.gov.br/dataset/bbf2c4f7-4432-4c54-8806-e3bce30d014a/resource/1a46ae61-6740-4d36-aba0-e41c5826de1c/download/condicoes_das_rodovias-doc_iii.pdf",
+        "pagina": 2,
+        "geometria": "Não validada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "km_inicial": 61.3,
+        "km_final": 62,
+        "municipio": "Barra Mansa",
+        "roc": "5",
+        "trecho": "Indeterminado",
+        "superficie": null,
+        "valor_pago": null,
+        "fonte_url": "https://dadosabertos.rj.gov.br/dataset/bbf2c4f7-4432-4c54-8806-e3bce30d014a/resource/1a46ae61-6740-4d36-aba0-e41c5826de1c/download/condicoes_das_rodovias-doc_iii.pdf",
+        "pagina": 2,
+        "geometria": "Não validada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "km_inicial": 62,
+        "km_final": 63,
+        "municipio": "Barra Mansa",
+        "roc": "5",
+        "trecho": "Indeterminado",
+        "superficie": null,
+        "valor_pago": null,
+        "fonte_url": "https://dadosabertos.rj.gov.br/dataset/bbf2c4f7-4432-4c54-8806-e3bce30d014a/resource/1a46ae61-6740-4d36-aba0-e41c5826de1c/download/condicoes_das_rodovias-doc_iii.pdf",
+        "pagina": 2,
+        "geometria": "Não validada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "km_inicial": 63,
+        "km_final": 64,
+        "municipio": "Barra Mansa",
+        "roc": "5",
+        "trecho": "Indeterminado",
+        "superficie": null,
+        "valor_pago": null,
+        "fonte_url": "https://dadosabertos.rj.gov.br/dataset/bbf2c4f7-4432-4c54-8806-e3bce30d014a/resource/1a46ae61-6740-4d36-aba0-e41c5826de1c/download/condicoes_das_rodovias-doc_iii.pdf",
+        "pagina": 2,
+        "geometria": "Não validada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "km_inicial": 64,
+        "km_final": 65,
+        "municipio": "Barra Mansa",
+        "roc": "5",
+        "trecho": "Indeterminado",
+        "superficie": null,
+        "valor_pago": null,
+        "fonte_url": "https://dadosabertos.rj.gov.br/dataset/bbf2c4f7-4432-4c54-8806-e3bce30d014a/resource/1a46ae61-6740-4d36-aba0-e41c5826de1c/download/condicoes_das_rodovias-doc_iii.pdf",
+        "pagina": 2,
+        "geometria": "Não validada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "km_inicial": 65,
+        "km_final": 66,
+        "municipio": "Barra Mansa",
+        "roc": "5",
+        "trecho": "Indeterminado",
+        "superficie": null,
+        "valor_pago": null,
+        "fonte_url": "https://dadosabertos.rj.gov.br/dataset/bbf2c4f7-4432-4c54-8806-e3bce30d014a/resource/1a46ae61-6740-4d36-aba0-e41c5826de1c/download/condicoes_das_rodovias-doc_iii.pdf",
+        "pagina": 2,
+        "geometria": "Não validada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "km_inicial": 66,
+        "km_final": 67,
+        "municipio": "Barra Mansa",
+        "roc": "5",
+        "trecho": "Indeterminado",
+        "superficie": null,
+        "valor_pago": null,
+        "fonte_url": "https://dadosabertos.rj.gov.br/dataset/bbf2c4f7-4432-4c54-8806-e3bce30d014a/resource/1a46ae61-6740-4d36-aba0-e41c5826de1c/download/condicoes_das_rodovias-doc_iii.pdf",
+        "pagina": 2,
+        "geometria": "Não validada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "km_inicial": 67,
+        "km_final": 68,
+        "municipio": "Barra Mansa",
+        "roc": "5",
+        "trecho": "Indeterminado",
+        "superficie": null,
+        "valor_pago": null,
+        "fonte_url": "https://dadosabertos.rj.gov.br/dataset/bbf2c4f7-4432-4c54-8806-e3bce30d014a/resource/1a46ae61-6740-4d36-aba0-e41c5826de1c/download/condicoes_das_rodovias-doc_iii.pdf",
+        "pagina": 2,
+        "geometria": "Não validada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "km_inicial": 68,
+        "km_final": 69,
+        "municipio": "Barra Mansa",
+        "roc": "5",
+        "trecho": "Indeterminado",
+        "superficie": null,
+        "valor_pago": null,
+        "fonte_url": "https://dadosabertos.rj.gov.br/dataset/bbf2c4f7-4432-4c54-8806-e3bce30d014a/resource/1a46ae61-6740-4d36-aba0-e41c5826de1c/download/condicoes_das_rodovias-doc_iii.pdf",
+        "pagina": 2,
+        "geometria": "Não validada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "km_inicial": 69,
+        "km_final": 70,
+        "municipio": "Barra Mansa",
+        "roc": "5",
+        "trecho": "Indeterminado",
+        "superficie": null,
+        "valor_pago": null,
+        "fonte_url": "https://dadosabertos.rj.gov.br/dataset/bbf2c4f7-4432-4c54-8806-e3bce30d014a/resource/1a46ae61-6740-4d36-aba0-e41c5826de1c/download/condicoes_das_rodovias-doc_iii.pdf",
+        "pagina": 2,
+        "geometria": "Não validada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "km_inicial": 70,
+        "km_final": 71,
+        "municipio": "Barra Mansa",
+        "roc": "5",
+        "trecho": "Indeterminado",
+        "superficie": null,
+        "valor_pago": null,
+        "fonte_url": "https://dadosabertos.rj.gov.br/dataset/bbf2c4f7-4432-4c54-8806-e3bce30d014a/resource/1a46ae61-6740-4d36-aba0-e41c5826de1c/download/condicoes_das_rodovias-doc_iii.pdf",
+        "pagina": 2,
+        "geometria": "Não validada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "km_inicial": 71,
+        "km_final": 72,
+        "municipio": "Barra Mansa",
+        "roc": "5",
+        "trecho": "Indeterminado",
+        "superficie": null,
+        "valor_pago": null,
+        "fonte_url": "https://dadosabertos.rj.gov.br/dataset/bbf2c4f7-4432-4c54-8806-e3bce30d014a/resource/1a46ae61-6740-4d36-aba0-e41c5826de1c/download/condicoes_das_rodovias-doc_iii.pdf",
+        "pagina": 2,
+        "geometria": "Não validada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "km_inicial": 72,
+        "km_final": 73,
+        "municipio": "Barra Mansa",
+        "roc": "5",
+        "trecho": "Indeterminado",
+        "superficie": null,
+        "valor_pago": null,
+        "fonte_url": "https://dadosabertos.rj.gov.br/dataset/bbf2c4f7-4432-4c54-8806-e3bce30d014a/resource/1a46ae61-6740-4d36-aba0-e41c5826de1c/download/condicoes_das_rodovias-doc_iii.pdf",
+        "pagina": 2,
+        "geometria": "Não validada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "km_inicial": 73,
+        "km_final": 74,
+        "municipio": "Barra Mansa",
+        "roc": "5",
+        "trecho": "Indeterminado",
+        "superficie": null,
+        "valor_pago": null,
+        "fonte_url": "https://dadosabertos.rj.gov.br/dataset/bbf2c4f7-4432-4c54-8806-e3bce30d014a/resource/1a46ae61-6740-4d36-aba0-e41c5826de1c/download/condicoes_das_rodovias-doc_iii.pdf",
+        "pagina": 2,
+        "geometria": "Não validada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "km_inicial": 74,
+        "km_final": 75,
+        "municipio": "Barra Mansa",
+        "roc": "5",
+        "trecho": "Indeterminado",
+        "superficie": null,
+        "valor_pago": null,
+        "fonte_url": "https://dadosabertos.rj.gov.br/dataset/bbf2c4f7-4432-4c54-8806-e3bce30d014a/resource/1a46ae61-6740-4d36-aba0-e41c5826de1c/download/condicoes_das_rodovias-doc_iii.pdf",
+        "pagina": 2,
+        "geometria": "Não validada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "km_inicial": 75,
+        "km_final": 76,
+        "municipio": "Barra Mansa",
+        "roc": "5",
+        "trecho": "Indeterminado",
+        "superficie": null,
+        "valor_pago": null,
+        "fonte_url": "https://dadosabertos.rj.gov.br/dataset/bbf2c4f7-4432-4c54-8806-e3bce30d014a/resource/1a46ae61-6740-4d36-aba0-e41c5826de1c/download/condicoes_das_rodovias-doc_iii.pdf",
+        "pagina": 2,
+        "geometria": "Não validada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "km_inicial": 76,
+        "km_final": 77,
+        "municipio": "Barra Mansa",
+        "roc": "5",
+        "trecho": "Indeterminado",
+        "superficie": null,
+        "valor_pago": null,
+        "fonte_url": "https://dadosabertos.rj.gov.br/dataset/bbf2c4f7-4432-4c54-8806-e3bce30d014a/resource/1a46ae61-6740-4d36-aba0-e41c5826de1c/download/condicoes_das_rodovias-doc_iii.pdf",
+        "pagina": 2,
+        "geometria": "Não validada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "km_inicial": 77,
+        "km_final": 78,
+        "municipio": "Barra Mansa",
+        "roc": "5",
+        "trecho": "Indeterminado",
+        "superficie": null,
+        "valor_pago": null,
+        "fonte_url": "https://dadosabertos.rj.gov.br/dataset/bbf2c4f7-4432-4c54-8806-e3bce30d014a/resource/1a46ae61-6740-4d36-aba0-e41c5826de1c/download/condicoes_das_rodovias-doc_iii.pdf",
+        "pagina": 2,
+        "geometria": "Não validada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "km_inicial": 78,
+        "km_final": 79,
+        "municipio": "Barra Mansa",
+        "roc": "5",
+        "trecho": "Indeterminado",
+        "superficie": null,
+        "valor_pago": null,
+        "fonte_url": "https://dadosabertos.rj.gov.br/dataset/bbf2c4f7-4432-4c54-8806-e3bce30d014a/resource/1a46ae61-6740-4d36-aba0-e41c5826de1c/download/condicoes_das_rodovias-doc_iii.pdf",
+        "pagina": 2,
+        "geometria": "Não validada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "km_inicial": 79,
+        "km_final": 80,
+        "municipio": "Barra Mansa",
+        "roc": "5",
+        "trecho": "Indeterminado",
+        "superficie": null,
+        "valor_pago": null,
+        "fonte_url": "https://dadosabertos.rj.gov.br/dataset/bbf2c4f7-4432-4c54-8806-e3bce30d014a/resource/1a46ae61-6740-4d36-aba0-e41c5826de1c/download/condicoes_das_rodovias-doc_iii.pdf",
+        "pagina": 2,
+        "geometria": "Não validada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "km_inicial": 80,
+        "km_final": 81,
+        "municipio": "Barra Mansa",
+        "roc": "5",
+        "trecho": "Indeterminado",
+        "superficie": null,
+        "valor_pago": null,
+        "fonte_url": "https://dadosabertos.rj.gov.br/dataset/bbf2c4f7-4432-4c54-8806-e3bce30d014a/resource/1a46ae61-6740-4d36-aba0-e41c5826de1c/download/condicoes_das_rodovias-doc_iii.pdf",
+        "pagina": 2,
+        "geometria": "Não validada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "km_inicial": 81,
+        "km_final": 81.9,
+        "municipio": "Barra Mansa",
+        "roc": "5",
+        "trecho": "Indeterminado",
+        "superficie": null,
+        "valor_pago": null,
+        "fonte_url": "https://dadosabertos.rj.gov.br/dataset/bbf2c4f7-4432-4c54-8806-e3bce30d014a/resource/1a46ae61-6740-4d36-aba0-e41c5826de1c/download/condicoes_das_rodovias-doc_iii.pdf",
+        "pagina": 2,
+        "geometria": "Não validada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "km_inicial": 81.9,
+        "km_final": 82,
+        "municipio": "Quatis",
+        "roc": "5",
+        "trecho": "Indeterminado",
+        "superficie": null,
+        "valor_pago": null,
+        "fonte_url": "https://dadosabertos.rj.gov.br/dataset/bbf2c4f7-4432-4c54-8806-e3bce30d014a/resource/1a46ae61-6740-4d36-aba0-e41c5826de1c/download/condicoes_das_rodovias-doc_iii.pdf",
+        "pagina": 2,
+        "geometria": "Não validada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "km_inicial": 82,
+        "km_final": 83,
+        "municipio": "Quatis",
+        "roc": "5",
+        "trecho": "Indeterminado",
+        "superficie": null,
+        "valor_pago": null,
+        "fonte_url": "https://dadosabertos.rj.gov.br/dataset/bbf2c4f7-4432-4c54-8806-e3bce30d014a/resource/1a46ae61-6740-4d36-aba0-e41c5826de1c/download/condicoes_das_rodovias-doc_iii.pdf",
+        "pagina": 2,
+        "geometria": "Não validada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "km_inicial": 83,
+        "km_final": 84,
+        "municipio": "Quatis",
+        "roc": "5",
+        "trecho": "Indeterminado",
+        "superficie": null,
+        "valor_pago": null,
+        "fonte_url": "https://dadosabertos.rj.gov.br/dataset/bbf2c4f7-4432-4c54-8806-e3bce30d014a/resource/1a46ae61-6740-4d36-aba0-e41c5826de1c/download/condicoes_das_rodovias-doc_iii.pdf",
+        "pagina": 2,
+        "geometria": "Não validada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "km_inicial": 84,
+        "km_final": 85,
+        "municipio": "Quatis",
+        "roc": "5",
+        "trecho": "Indeterminado",
+        "superficie": null,
+        "valor_pago": null,
+        "fonte_url": "https://dadosabertos.rj.gov.br/dataset/bbf2c4f7-4432-4c54-8806-e3bce30d014a/resource/1a46ae61-6740-4d36-aba0-e41c5826de1c/download/condicoes_das_rodovias-doc_iii.pdf",
+        "pagina": 2,
+        "geometria": "Não validada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "km_inicial": 85,
+        "km_final": 86,
+        "municipio": "Quatis",
+        "roc": "5",
+        "trecho": "Indeterminado",
+        "superficie": null,
+        "valor_pago": null,
+        "fonte_url": "https://dadosabertos.rj.gov.br/dataset/bbf2c4f7-4432-4c54-8806-e3bce30d014a/resource/1a46ae61-6740-4d36-aba0-e41c5826de1c/download/condicoes_das_rodovias-doc_iii.pdf",
+        "pagina": 2,
+        "geometria": "Não validada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "km_inicial": 86,
+        "km_final": 87,
+        "municipio": "Quatis",
+        "roc": "5",
+        "trecho": "Indeterminado",
+        "superficie": null,
+        "valor_pago": null,
+        "fonte_url": "https://dadosabertos.rj.gov.br/dataset/bbf2c4f7-4432-4c54-8806-e3bce30d014a/resource/1a46ae61-6740-4d36-aba0-e41c5826de1c/download/condicoes_das_rodovias-doc_iii.pdf",
+        "pagina": 2,
+        "geometria": "Não validada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "km_inicial": 87,
+        "km_final": 88,
+        "municipio": "Quatis",
+        "roc": "5",
+        "trecho": "Indeterminado",
+        "superficie": null,
+        "valor_pago": null,
+        "fonte_url": "https://dadosabertos.rj.gov.br/dataset/bbf2c4f7-4432-4c54-8806-e3bce30d014a/resource/1a46ae61-6740-4d36-aba0-e41c5826de1c/download/condicoes_das_rodovias-doc_iii.pdf",
+        "pagina": 2,
+        "geometria": "Não validada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "km_inicial": 88,
+        "km_final": 89,
+        "municipio": "Quatis",
+        "roc": "5",
+        "trecho": "Indeterminado",
+        "superficie": null,
+        "valor_pago": null,
+        "fonte_url": "https://dadosabertos.rj.gov.br/dataset/bbf2c4f7-4432-4c54-8806-e3bce30d014a/resource/1a46ae61-6740-4d36-aba0-e41c5826de1c/download/condicoes_das_rodovias-doc_iii.pdf",
+        "pagina": 2,
+        "geometria": "Não validada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "km_inicial": 89,
+        "km_final": 90,
+        "municipio": "Quatis",
+        "roc": "5",
+        "trecho": "Indeterminado",
+        "superficie": null,
+        "valor_pago": null,
+        "fonte_url": "https://dadosabertos.rj.gov.br/dataset/bbf2c4f7-4432-4c54-8806-e3bce30d014a/resource/1a46ae61-6740-4d36-aba0-e41c5826de1c/download/condicoes_das_rodovias-doc_iii.pdf",
+        "pagina": 2,
+        "geometria": "Não validada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "km_inicial": 90,
+        "km_final": 90.7,
+        "municipio": "Quatis",
+        "roc": "5",
+        "trecho": "Indeterminado",
+        "superficie": null,
+        "valor_pago": null,
+        "fonte_url": "https://dadosabertos.rj.gov.br/dataset/bbf2c4f7-4432-4c54-8806-e3bce30d014a/resource/1a46ae61-6740-4d36-aba0-e41c5826de1c/download/condicoes_das_rodovias-doc_iii.pdf",
+        "pagina": 2,
+        "geometria": "Não validada"
+      }
+    }
+  ]
+}

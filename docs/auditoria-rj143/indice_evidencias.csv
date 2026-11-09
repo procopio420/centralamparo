@@ -1,0 +1,40 @@
+﻿arquivo,url,data_acesso,sha256,estado
+condicoes-da_condicoes_das_rodovias-doc_iii.pdf,https://dadosabertos.rj.gov.br/dataset/bbf2c4f7-4432-4c54-8806-e3bce30d014a/resource/1a46ae61-6740-4d36-aba0-e41c5826de1c/download/condicoes_das_rodovias-doc_iii.pdf,2026-11-09,d05ad7625c6c24388c5b4a951f3d201d808f04a2583d82a304a948f6a9705943,Cópia local
+condicoes-da_condicao_do_pavimento_dociii.csv,https://dadosabertos.rj.gov.br/dataset/bbf2c4f7-4432-4c54-8806-e3bce30d014a/resource/ac674cc7-81de-4d2f-b525-b61775793d36/download/condicao_do_pavimento_dociii.csv,2026-11-09,9df7bac7513e8c73111fb2cb48927034158a465612911393ba52280c34764d1a,Cópia local
+condicoes-da_condicao_da_conservacao_dociii.csv,https://dadosabertos.rj.gov.br/dataset/bbf2c4f7-4432-4c54-8806-e3bce30d014a/resource/d2ef9b6c-1002-4885-9987-58bd2760b1a2/download/condicao_da_conservacao_dociii.csv,2026-11-09,687ff044b0aba6866debe5915f67b94b772d221174705fe513623148ab3756b7,Cópia local
+condicoes-da_condicoes_das_rodovias_regional-i.pdf,https://dadosabertos.rj.gov.br/dataset/a4486b85-82f3-4c64-837e-2110ce30603b/resource/d4cd349f-6f79-4b01-bff6-6d236262aaa4/download/condicoes_das_rodovias_regional-i.pdf,2026-11-09,d0ad9f7e9ff1fb0f207bb2b78b56572f4af23538f91c9ca71d523b4a46202306,Cópia local
+condicoes-da_condicao_de_pavimento.csv,https://dadosabertos.rj.gov.br/dataset/a4486b85-82f3-4c64-837e-2110ce30603b/resource/2b7ae6bc-e7e1-4bff-a0e8-1ec00e4eb5a0/download/condicao_de_pavimento.csv,2026-11-09,882cfc2a0506bd787b569fde6d696eff8970b1c7ed4408504655d3a5b6aef7e7,Cópia local
+condicoes-da_condicao_da_conservacao.csv,https://dadosabertos.rj.gov.br/dataset/a4486b85-82f3-4c64-837e-2110ce30603b/resource/df5432e5-4cef-4a4a-b60e-acd1dc536b51/download/condicao_da_conservacao.csv,2026-11-09,78056dadf1455c5db84a3b740b3c6d1966393d8e14bd11e766ef0f39810623c0,Cópia local
+informacoes-_imformacoes_dos_contratos_dociii.csv,https://dadosabertos.rj.gov.br/dataset/8b206dac-cae5-4c10-8cb9-237b20fbc01f/resource/580bddd7-335c-4203-9213-6109d2f03859/download/imformacoes_dos_contratos_dociii.csv,2026-11-09,b2e9e313fb9640186c65301b962edafddb215044c137d5f45f8b09df9869f91b,Cópia local
+informacoes-_imformacao_dos_contratos_doc_i.csv,https://dadosabertos.rj.gov.br/dataset/2aa1453c-f8a5-4ca0-a4fb-4d4643484553/resource/cd63efb2-9869-47f8-89ed-6711e445cef5/download/imformacao_dos_contratos_doc_i.csv,2026-11-09,44ff877d560934e0da41583909609345c8f1a61883895e895092cd1b4015881c,Cópia local
+execucao-orc_execucao_orcamentaria_2024.csv,https://dadosabertos.rj.gov.br/dataset/52b9becf-b744-42ef-ae33-6801be9562f9/resource/1d4a4450-f36b-43d4-891e-6e6a3e15e957/download/execucao_orcamentaria_2024.csv,2026-11-09,37518f762c4a7962b8e80fef4d7b6dd1cc1ea40761ed84363c0ec8cd410322a0,Cópia local
+situacao-da-_situacao-da-rede-estadual.pdf,https://dadosabertos.rj.gov.br/dataset/e35f554c-14fd-48fc-906c-bb461ef9355d/resource/092d6929-9b0f-4eed-b466-fefd8cf4ee23/download/situacao-da-rede-estadual.pdf,2026-11-09,6fcb94df2f610f43c58897d196ac8ce3404b206c3d4fa0d31a131322c0c3b86d,Cópia local
+tfe.html,https://tfe.fazenda.rj.gov.br/tfe/web/despesalivre,2026-11-09,a0ed12445cf12fca0f3d43bbfb50763f40b45106e6be4aeffc96331236f710b6,Cópia local
+sig.html,https://www.compras.rj.gov.br/,2026-11-09,b729aba749f71cda6fd6d8951baa19ce293de4de1bf046b83288a909740e3c6f,Cópia local
+sei.html,https://sei.rj.gov.br/,2026-11-09,,Sem cópia local nesta coleta
+osm.json,https://overpass.kumi.systems/api/interpreter?data=%5Bout%3Ajson%5D%3Bway%5B%22ref%22%3D%22RJ-143%22%5D%28-23%2C-44.6%2C-21.8%2C-43.5%29%3Bout%20geom%3B,2026-11-09,,Sem cópia local nesta coleta
+turn32view0.pdf,https://s3-sa-east-1.amazonaws.com/diariospdf/_2021/07/19/diario_executivo_estado_rio_de_janeiro/0/abe09b3ae062d0fcb662be4ee1a5306d/diarioOficial.pdf,2026-11-09,5d9802a5d05ebce9a13051af81a0cc8beb68d8010602028b88dd129c2d7b2dcd,Cópia local
+turn18view0.pdf,https://www.rj.gov.br/seiop/sites/default/files/arquivos_pagina_basica/20725DO%2027%20OUT%202021%20RESOLU%C3%87%C3%83O%20SECID%2080%20GEST%C3%83O%20E%20FISCALIZA%C3%87%C3%83O%20DO%20CONTRATO.pdf,2026-11-09,,Sem cópia local nesta coleta
+turn26view0.pdf,https://www.rj.gov.br/secid/sites/default/files/arquivos_pagina_basica/DOERJ.pdf,2026-11-09,,Sem cópia local nesta coleta
+turn30view0.pdf,https://www.rj.gov.br/agenersa/sites/default/files/arquivos_paginas_basicas/doerjandbox_30012026_3997.pdf,2026-11-09,,Sem cópia local nesta coleta
+turn24view0.pdf,https://www.rj.gov.br/emop/sites/default/files/arquivos_pagina_basica/4%20-%20PUBLICA%C3%87%C3%83O.D.O._15.pdf,2026-11-09,,Sem cópia local nesta coleta
+turn27view0.pdf,https://www2.alerj.rj.gov.br/leideacesso/verArquivo.asp?idArquivo=2480,2026-11-09,71a17a2237c3b8eeae2cc855f9ac109b644779eec4905ccca4e1f4527f7f4dd6,Cópia local
+turn55search12.pdf,https://quatis.rj.gov.br/wp-content/uploads/2025/06/PM_PNMRSJ_Re.pdf,2026-11-09,e0771100801c0b78a0ddbc93680ba668ccaa83171dff4249a33b8642fff89a78,Cópia local
+turn61search2.pdf,https://www.rj.gov.br/seiop/sites/default/files/arquivos_pagina_basica/%5B5%5D-50024717_Publicacao.pdf,2026-11-09,,Sem cópia local nesta coleta
+turn38search7.pdf,https://www.rj.gov.br/seiop/sites/default/files/arquivos_pagina_basica/DO%2029%20AGO%202022%20RESOLU%C3%87%C3%83O%20SECID%20N%C2%BA%20192%20GEST%C3%83O%20E%20FISCALIZA%C3%87%C3%83O%20DO%20CONTRATO.pdf,2026-11-09,,Sem cópia local nesta coleta
+turn35search5.pdf,https://www.rj.gov.br/seenemar/sites/default/files/arquivos-paginas/Termo%20Aditivo.pdf,2026-11-09,,Sem cópia local nesta coleta
+turn14search0.html,https://www.escavador.com/diarios/12432786/DOERJ/poder-executivo/2026-10-06?page=47,2026-11-09,,Sem cópia local nesta coleta
+turn35search1.html,https://www.escavador.com/diarios/6080014/DOERJ/poder-executivo/2025-06-25?page=22,2026-11-09,,Sem cópia local nesta coleta
+turn37search0.html,https://www.escavador.com/diarios/816345/DOERJ/poder-executivo/2013-06-24?page=6,2026-11-09,,Sem cópia local nesta coleta
+turn37search3.html,https://projetos.planejamento.rj.gov.br/ficha.php?p=33,2026-11-09,c70fc050e7b2519c23e0f4c1df14a43aa0d4ec98db5c096c549679285c5ad5ed,Cópia local
+turn2search1.html,https://www.escavador.com/diarios/5544115/DOERJ/poder-executivo/2022-07-25?page=62,2026-11-09,,Sem cópia local nesta coleta
+turn38search2.html,https://www.escavador.com/diarios/5611709/DOERJ/poder-executivo/2023-01-31?page=45,2026-11-09,,Sem cópia local nesta coleta
+turn99search0.html,https://www.escavador.com/diarios/5873756/DOERJ/poder-executivo/2024-04-24?page=55,2026-11-09,,Sem cópia local nesta coleta
+turn97search1.html,https://www.escavador.com/diarios/5964486/DOERJ/poder-executivo/2024-09-16?page=46,2026-11-09,,Sem cópia local nesta coleta
+turn97search2.html,https://www.escavador.com/diarios/6000407/DOERJ/poder-executivo/2024-12-05?page=69,2026-11-09,,Sem cópia local nesta coleta
+turn38search1.html,https://www.escavador.com/diarios/5868554/DOERJ/poder-executivo/2024-04-11?page=38,2026-11-09,,Sem cópia local nesta coleta
+turn56search0.html,https://diariodovale.com.br/cidade/barra-mansa-realiza-obras-de-recuperacao-de-estradas-rurais/,2026-11-09,,Sem cópia local nesta coleta
+turn10search0.html,https://www3.alerj.rj.gov.br/lotus_notes/default.asp?id=3&url=L3NjcHJvMTkyMy5uc2YvMGM1YmY1Y2RlOTU2MDFmOTAzMjU2Y2FhMDAyMzEzMWIvOTA1MmRjNGQ0ZDNkNzUwYzAzMjU4Nzc5MDA3MWQzMWU%2FT3BlbkRvY3VtZW50,2026-11-09,,Sem cópia local nesta coleta
+gis_arcgis.geojson,https://services6.arcgis.com/buZWQQns3VOahEPQ/ArcGIS/rest/services/Interferencias_Onda_3_WFL1/FeatureServer/38/query?where=Rodovia%20LIKE%20%27%25143%25%27&outFields=*&outSR=4326&f=geojson,2026-11-09,1ce7eb457779acd1dc230a1bcb4692d06f27533481f26cbfe0e9e599134c0cd4,Cópia local
+turn110search23.pdf,https://www.rj.gov.br/fia/sites/default/files/2023-09/2021-002%20-%20Resultado%20Preliminar%20-%20DOERJ%2021-06-2021.pdf,2026-11-09,,Sem cópia local nesta coleta
+mapa_der_2024.pdf,https://www.der.rj.gov.br/documentos/mapas/Mapa%20do%20Rio%20de%20Janeiro.pdf,2026-11-09,58ecd4e40912e06a2ad60ae4069d05759cba15ad018bfdc42f003d3260a435a0,Cópia local
