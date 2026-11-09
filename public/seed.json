@@ -1,0 +1,40 @@
+{
+  "request": {
+    "kind": "Reivindicação",
+    "status": "Reivindicação registrada",
+    "title": "Trafegabilidade imediata e cronograma público",
+    "description": "A Central Amparo reivindica medidas emergenciais, solução duradoura e prazos verificáveis para Quatis–Amparo e Amparo–São José do Turvo.",
+    "origin": "Pauta editorial da Central Amparo",
+    "owner": "",
+    "date": "2026-11-09",
+    "deadline": "",
+    "evidence": "",
+    "note": "Aguardamos documentação de eventual resposta ou compromisso."
+  },
+  "timeline": [
+    {
+      "at": "2026-11-09",
+      "title": "Dossiê documental consolidado",
+      "status": "Auditoria Central Amparo",
+      "evidence": "/auditoria/Dossie_RJ143.pdf"
+    },
+    {
+      "at": "2023",
+      "title": "Indicação legislativa pede pavimentação de cerca de 18 km entre Quatis e Amparo",
+      "status": "Indicação 20230702020 · pedido",
+      "evidence": "/auditoria/Dossie_RJ143.pdf"
+    },
+    {
+      "at": "2021",
+      "title": "Indicação legislativa pede pavimentação de cerca de 13 km entre Amparo e São José do Turvo",
+      "status": "Indicação legislativa · pedido",
+      "evidence": "https://www3.alerj.rj.gov.br/lotus_notes/default.asp?id=3&url=L3NjcHJvMTkyMy5uc2YvMGM1YmY1Y2RlOTU2MDFmOTAzMjU2Y2FhMDAyMzEzMWIvOTA1MmRjNGQ0ZDNkNzUwYzAzMjU4Nzc5MDA3MWQzMWU%2FT3BlbkRvY3VtZW50"
+    },
+    {
+      "at": "2017",
+      "title": "Patrolamento e aplicação de escória na ligação São Joaquim–Amparo",
+      "status": "Execução reportada pela imprensa · custos a apurar",
+      "evidence": "https://www.jornalhorah.com.br/wp-content/uploads/2017/12/Jornal-do-site-ilovepdf-05-12-2017.pdf"
+    }
+  ]
+}
