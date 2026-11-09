@@ -107,3 +107,11 @@ O DER, em 10/01/2023, orientou usar a **RJ-143 via Turvo** como rota alternativa
 7. Qual o canal e data do próximo retorno institucional sobre **RJ-143 + RJ-153**, com demandas separadas e responsáveis verificáveis?
 
 **Princípio de publicação Central Amparo:** distinguir pedido, resposta, compromisso formal, obra em execução, obra recebida, orçamento e valor pago. Nunca usar cenas sintéticas como evidência da condição real da RJ-153 nem dizer que R$ 53,77 milhões foram gastos em tapa-buracos: esse é um projeto de contenção de taludes.
+
+## 8. Fotografias reais históricas para cotejo (não são imagens de 2026)
+
+- **10/02/2023 — km 23, Serra da Mutuca:** [Foco Regional](https://www.focoregional.com.br/Noticia/rj-153-deve-ser-interditada-na-serra-da-mutuc) publicou fotografias creditadas a Thiago Moreira mostrando ruptura do bordo da pista e erosão profunda. A reportagem registra manilhamento insuficiente e restrições de circulação. **É prova visual histórica de 2023, não diagnóstico atualizado. Direitos autorais devem ser tratados antes de republicar no site/vídeo.**
+- **16/10/2023 — obra de contenção:** [Galeria institucional do DER](https://www.der.rj.gov.br/detalhe_foto.asp?id=1287) indexa fotografia de Michel Filho da obra na RJ-153. Verificar autorização de uso/republicação.
+- **17/02/2023 — liberação da Serra da Mutuca:** [DER](https://www.der.rj.gov.br/detalhe_foto.asp?id=1250) indexa foto histórica da liberação do tráfego. Não confundir com liberação definitiva após as contenções de 2023–24.
+
+**Consequência para a comunicação:** existem imagens verdadeiras de ruptura da pista e de execução de contenção. Se usadas, a legenda deve mencionar a **data de 2023** e a localização somente na medida sustentada pela fonte. Não substituir por geração de IA quando se pretender comprovar o episódio; a IA pode ser usada apenas como ilustração identificada.
