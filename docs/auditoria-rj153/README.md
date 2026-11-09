@@ -1,3 +1,16 @@
+# Índice da auditoria RJ-153 — Central Amparo
+
+**Atualização aprofundada de 09/11/2026:**
+
+- [Auditoria aprofundada: contratos, valores reconciliados, fiscalização, 2009–2026, geotecnia e cooperação municipal](auditoria-aprofundada-2026-11-09.md)
+- [Índice auditável de 18 evidências com links e status](evidencias.csv)
+- [Matriz financeira: contratado × aditivo × liquidado × dívida reconhecida (sem dupla contagem)](matriz-financeira.csv)
+- [Issue de continuidade e lacunas](https://github.com/procopio420/centralamparo/issues/3)
+
+**Novidade decisiva:** a diferença de **R$ 1.928,75** entre o contrato original 035/2023 e a ficha de projeto é explicada pelo I termo aditivo de supressão. O Diário Oficial também identifica gestor e comissão fiscal nomeados em 2023. **Ainda não há pagamentos por km nem resultado comprovado da contratação emergencial de março/2026.**
+
+---
+
 # Auditoria documental da RJ-153 — Central Amparo
 
 **Coleta OSINT inicial:** 09/11/2026. **Área prioritária:** ligação Volta Redonda → Nossa Senhora do Amparo → Serra da Mutuca → Santa Isabel do Rio Preto, com especial atenção a Amparo–Santa Isabel e à atribuição administrativa de cada segmento. **Política:** apenas fontes públicas; nenhuma LAI, contato institucional ou publicação de denúncia realizada.
