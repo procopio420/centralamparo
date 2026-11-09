@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="description" content="Registre problemas na RJ-143 e acompanhe fontes, respostas e prazos.">
+<title>Central Amparo | RJ-143</title><link rel="stylesheet" href="/style.css"><script type="module" src="/portal.js"></script>
+</head>
+<body>
+<header class="top"><a class="brand" href="/">CENTRAL <strong>AMPARO</strong></a><nav aria-label="Principal"><a href="#mapa">Mapa</a><a href="#prazos">Prazos</a><a href="#protocolo">Meu protocolo</a></nav></header>
+<main>
+<section class="hero"><div class="wrap hero-grid"><div>
+<p class="eyebrow">MOBILIZAÇÃO CÍVICA · RJ-143</p>
+<h1>A estrada precisa avançar. <em>As respostas também.</em></h1>
+<p class="lead">Queremos trafegabilidade imediata, solução duradoura e prazos públicos verificáveis para quem depende da RJ-143.</p>
+<div class="actions"><a class="button" href="#relatar">Registrar problema</a><a class="button secondary" href="#mapa">Ver mapa</a></div>
+</div><figure class="hero-art">
+<svg viewBox="0 0 420 370" role="img" aria-label="Ilustração gráfica de uma estrada sinuosa">
+<defs><pattern id="grid" width="23" height="23" patternUnits="userSpaceOnUse"><path d="M23 0H0V23" fill="none" stroke="#334048"/></pattern></defs>
+<rect width="420" height="370" fill="url(#grid)"/><path d="M-45 314 C125 366 207 269 134 198 S91 97 213 106 S371 84 458 -7" fill="none" stroke="#efb95c" stroke-width="91"/><path d="M-45 314 C125 366 207 269 134 198 S91 97 213 106 S371 84 458 -7" fill="none" stroke="#20282e" stroke-width="85"/><path d="M-45 314 C125 366 207 269 134 198 S91 97 213 106 S371 84 458 -7" fill="none" stroke="#efb95c" stroke-width="3" stroke-dasharray="14 12"/><rect x="235" y="218" width="145" height="79" rx="9" fill="#efb95c"/><text x="307" y="268" text-anchor="middle" fill="#182024" font-family="system-ui" font-size="31" font-weight="900">RJ-143</text>
+</svg><figcaption>Ilustração editorial</figcaption></figure></div></section>
+<section class="wrap section" id="problema"><p class="eyebrow">01 / POR QUE IMPORTA</p><h2>Quem depende da estrada sente primeiro.</h2><p class="lead">Buracos, lama e erosão podem transformar um trajeto de trabalho, estudo ou atendimento de saúde em um desvio, um prejuízo ou uma viagem adiada.</p><div class="grid"><article><h3>Na chuva</h3><p>Registre alagamentos, atoleiros e trechos de passagem difícil.</p></article><article><h3>No dia a dia</h3><p>Documente buracos, desníveis e danos que afetam o transporte local.</p></article><article><h3>Onde agir</h3><p>Uma referência clara ajuda a comunidade a identificar o ponto e acompanhar a resposta.</p></article></div></section>
+<section class="band"><div class="wrap section"><p class="eyebrow">02 / O QUE JÁ SABEMOS</p><h2>Onde há documento. Onde falta resposta.</h2>
+<div class="grid facts">
+<article><span class="tag">Documento oficial</span><h3>90,50 km</h3><p>Extensão cadastrada na rede estadual em novembro de 2024. O documento registra 44,70 km pavimentados e 45,80 km de leito natural para a rodovia inteira. A divisão por intervalo segue em apuração.</p><a href="https://dadosabertos.rj.gov.br/dataset/e35f554c-14fd-48fc-906c-bb461ef9355d/resource/092d6929-9b0f-4eed-b466-fefd8cf4ee23/download/situacao-da-rede-estadual.pdf">Rede estadual · p. 3</a></article>
+<article><span class="tag">Sem comprovação por trecho</span><h3>R$ 32,68 milhões</h3><p>Pagamentos registrados em 2024 em 25 empenhos de três contratos de alcance regional ou estadual. A parcela destinada a Quatis–Amparo ou Amparo–Turvo permanece indeterminada.</p><a href="/auditoria/resumo.csv">Conferir resumo por contrato</a></article>
+<article><span class="tag">Confirmado · Valença</span><h3>R$ 20,15 milhões</h3><p>Registrados como pagos em cinco empenhos de 2022 com objeto Juparanã–Esteves, em Valença, fora dos trechos prioritários deste portal.</p><a href="/auditoria/Dossie_RJ143.pdf">Ver conciliação no dossiê</a></article>
+</div></div></section>
+<section class="wrap section" id="mapa"><p class="eyebrow">03 / MAPA DE PONTOS CRÍTICOS</p><h2>Da Barrinha ao Turvo.</h2><p>Mapa esquemático. A posição representa a ordem das localidades. Consulte a referência textual de cada ponto para localizar o problema.</p>
+<div class="route" aria-label="Filtrar mapa por trecho"><span>Quatis</span><button data-route="0" aria-label="Filtrar Quatis a Amparo">Trecho A</button><span>Amparo</span><button data-route="1" aria-label="Filtrar Amparo ao Turvo">Trecho B</button><span>São José do Turvo</span></div>
+<div class="filters"><label>Trecho<select id="map-segment"></select></label><label>Categoria<select id="map-category"></select></label><label>Gravidade<select id="map-severity"></select></label></div><div id="points" class="grid" aria-live="polite"></div></section>
+<section class="band" id="relatar"><div class="wrap section split"><div><p class="eyebrow">04 / REGISTRE UM PROBLEMA</p><h2>O que você viu na estrada?</h2><p>Indique o trecho, um ponto de referência e o que aconteceu. Seu relato entra em revisão e você recebe um protocolo para acompanhar.</p><p>Envie apenas o texto nesta versão. Evite incluir nomes, placas ou outros dados pessoais na descrição.</p></div>
+<form id="report"><label>Trecho<select name="segment" required></select></label><label>Referência, local ou km aproximado<input name="reference" required maxlength="180"></label><div class="filters"><label>Categoria<select name="category" required></select></label><label>Gravidade<select name="severity" required></select></label></div><label>Descrição<textarea name="description" required maxlength="2000" rows="4"></textarea></label><label>Nome (opcional)<input name="name" maxlength="100" autocomplete="name"></label><label>WhatsApp ou e-mail (opcional)<input name="contact" maxlength="160"></label><label class="trap" aria-hidden="true">Deixe vazio<input name="website" tabindex="-1" autocomplete="off"></label>
+<label class="check"><input type="checkbox" name="consent" required>Li o aviso de privacidade e concordo com a análise do meu relato.</label>
+<label class="check"><input type="checkbox" name="share">Autorizo eventual compartilhamento do relato e do contato informado com autoridades, após revisão manual.</label>
+<label class="check"><input type="checkbox" name="updates">Aceito receber atualizações sobre este relato.</label>
+<button class="button" disabled>Enviar relato</button><output aria-live="polite"></output></form>
+</div></section>
+<section class="wrap section" id="protocolo"><p class="eyebrow">05 / CONSULTA PRIVADA</p><h2>Acompanhe seu relato.</h2><form id="lookup"><label>Protocolo<input name="protocol" placeholder="RJ143-…" maxlength="48" required autocomplete="off"></label><button class="button" name="action" value="lookup">Consultar</button> <button class="button secondary" name="action" value="remove">Solicitar remoção</button><output aria-live="polite"></output></form></section>
+<section class="band" id="prazos"><div class="wrap section"><p class="eyebrow">06 / COBRANÇA PÚBLICA</p><h2>Pedido, resposta e prazo.</h2><p>Reivindicações da comunidade e compromissos documentados são acompanhados em grupos separados.</p>
+<h3>Reivindicações</h3><div id="requests" class="grid"></div><h3>Compromissos documentados</h3><div id="commitments" class="grid"></div>
+<h3>Linha do tempo</h3><ol id="timeline" class="timeline"></ol></div></section>
+<section class="wrap section" id="transparencia"><p class="eyebrow">07 / TRANSPARÊNCIA</p><h2>Confira a origem de cada informação.</h2><div class="links"><a href="/auditoria/Dossie_RJ143.pdf">Dossiê</a><a href="/auditoria/financeiro.csv">Base financeira</a><a href="/auditoria/responsabilidades.csv">Responsabilidades</a><a href="/auditoria/segmentos_lineares.csv">Referências por km</a></div><h3>Metodologia e regras editoriais</h3><p>Classificamos cada evidência por origem, data, recorte territorial e etapa. Valores contratados, liquidados e pagos têm significados distintos. Publicamos lacunas explícitas quando a fonte não permite atribuir execução ou gasto a um trecho. Relatos publicados passam por revisão editorial e conservam sua origem.</p>
+<h3 id="privacidade">Privacidade dos relatos</h3><p>Coletamos os dados do ponto e, se você fornecer, nome e contato. A equipe de moderação usa esses dados para revisar o relato e, quando autorizado, enviar atualizações ou encaminhar manualmente o caso. A publicação exibe uma versão revisada do ponto. Guarde o protocolo. Use a consulta acima para acompanhar o relato ou solicitar sua remoção.</p><p id="privacy-contact"></p></section>
+</main><footer class="top"><span class="brand">CENTRAL <strong>AMPARO</strong></span><a href="/admin">Moderação</a></footer>
+</body></html>

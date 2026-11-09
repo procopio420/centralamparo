@@ -1,0 +1,8 @@
+<!doctype html><html lang="pt-BR"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="robots" content="noindex"><title>Moderação | Central Amparo</title><link rel="stylesheet" href="/style.css"><script type="module" src="/admin.js"></script></head>
+<body><header class="top"><a class="brand" href="/">CENTRAL <strong>AMPARO</strong></a><a href="/">Voltar ao portal</a></header><main class="wrap section"><p class="eyebrow">ÁREA RESTRITA</p><h1>Moderação</h1>
+<form id="login"><label>Chave de acesso<input name="key" type="password" autocomplete="current-password" required maxlength="256"></label><button class="button">Entrar</button><output aria-live="polite"></output></form>
+<section id="admin" class="admin-list" hidden><p class="actions"><a href="/api/admin/export">Exportar dados privados (JSON)</a><button class="button secondary" id="logout">Sair</button></p><p id="admin-error" role="status"></p>
+<h2>Relatos</h2><p>Revise o texto público separadamente. Registre encaminhamento somente após realizá-lo fora do portal e se houver autorização.</p><div id="reports"></div>
+<h2>Compromissos e reivindicações</h2><div id="entries"></div>
+<h2>Histórico recente</h2><div id="history"></div></section>
+</main></body></html>
